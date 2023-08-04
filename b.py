@@ -3,6 +3,6 @@
 
 def main():
     """BLA"""
-    print("What's up Git")
+    print("What's up Github")
 
 main()
